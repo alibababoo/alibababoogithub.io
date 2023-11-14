@@ -1,7 +1,16 @@
----
-title: "About"
----
+**Storyboard: Data analysis of Taylor Swift's songs**
 
-Hello, I am Alicia, a Y2 CNM x Sociology major! A fun question I have always been thinking about but do not have the answer to is, why does every rubbish chute in Singapore smell the same despite different rubbish contents in the bin? Not sure if anyone knows the answer to this but it is quite fascinating to me haha.
+*Why is Taylor Swift so popular?*
 
-This is my first time ever encountering anything remotely related to coding hence NM2207 has been really tough for me haha, but I have surely been learning a lot every week and hopefully my final project will go smoothly. Thank you teachers for your endlessly patience.
+![](images/taylor%20ticket%20price%20.png)
+
+```{=html}
+<iframe height="400" width="100%" frameborder="no" src="https://alibababoo.shinyapps.io/STORYBOARD/"> </iframe>
+```
+```{=html}
+<iframe height="400" width="100%" frameborder="no" src="https://alibababoo.shinyapps.io/ticketprices/"> </iframe>
+```
+```{=html}
+<iframe height="400" width="100%" frameborder="no" src="https://alibababoo.shinyapps.io/analysis/"> </iframe>
+```
+![](images/swift%20final%20pic.png){fig-align="center"}

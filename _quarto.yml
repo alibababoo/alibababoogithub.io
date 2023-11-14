@@ -3,13 +3,13 @@ project:
   output-dir: docs
   
 website:
-  title: "Taylor Swift Songs"
+  title: "Alicia's webpage"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: about.qmd
         text: About
+      - href: about.qmd
+        text: Storyboard
 
 format:
   html:
@@ -18,4 +18,5 @@ format:
     toc: true
 
 editor: visual
+
 
