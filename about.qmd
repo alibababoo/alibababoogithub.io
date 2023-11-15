@@ -1,6 +1,6 @@
 # **Storyboard: Data analysis of Taylor Swift's songs**
 
-## *Why is Taylor Swift so popular?* 
+## *Why is Taylor Swift so popular?*
 
 **Taylor Swift** is a prominent 21st century American singer-songwriterwho needs no further introduction. A household name in the singing industry, she is widely recognised for her songwriting, musicial versatility (especially pop and country genres), artistic reinventions and influence on the music industry.
 
@@ -34,11 +34,7 @@ I will be using these data later to look at the trends and differences among the
 ```{=html}
 <iframe height="400" width="100%" frameborder="no" src="https://alibababoo.shinyapps.io/ticketprices/"> </iframe>
 ```
-+-------------+----------------+------------------+------------+------------------------------------+------------------------------+-----------------------------------+-----------------+----------------+
-| ##### Lover | ##### Folklore | ##### reputation | ##### 1989 | ##### Speak Now (Taylor's Version) | ##### Red (Taylor's Version) | ##### Fearless (Taylor's Version) | ##### Midnights | ##### evermore |
-+:===========:+:==============:+:================:+:==========:+:==================================:+:============================:+:=================================:+:===============:+:==============:+
-| 12          | 7              | 11               | 5          | 9                                  | 3                            | 4                                 | 9               | 3              |
-+-------------+----------------+------------------+------------+------------------------------------+------------------------------+-----------------------------------+-----------------+----------------+
+![](images/table%20.jpg)
 
 As Taylor Swift has released way too many songs, **approximately 237 songs**, which includes all of her original songs, covers, holiday songs, soundtrack songs, and live recordings (Anderson, 2023), I have narrowed down to only focusing on her songs with a popularity rating of 80 and above.
 
@@ -46,7 +42,7 @@ From the scatter plot and the table above, the album that is most loved by swift
 
 My personal take on why reputation is so popular would be due to the fact that this was the first album Taylor released after lots of controversy about her after her 1989 album release in 2014. Prior to the release of this album, Taylor has disappeared from public view after Kim Kardashian released the details of a private phone call with Kanye West (CBS News, 2017), and there was even a hate train online where people used the hashtag #KimExposedTaylorParty to diss Taylor (Mackenzie, 2016). Hence, this album was seen as a comeback by Taylor where many of the songs revealed certain gossips or emotions felt by Taylor throughout the controversies and rumours about her. This was also an album which was lyrically and sonically extremely different from her previous pop and country albums, which talked more about love and heartbreaks, while this album was more about being confident, acknowledging her flaws and dismissing people's unfair opinions about her.
 
-It is also worthy to note that her most popular song to date is 'Cruel Summer' with a popularity rating of 98. In fact, it was so well-loved by swifties that Taylor decided to start off every Eras Tour concert with this song. \
+It is also worthy to note that her most popular song to date is 'Cruel Summer' with a popularity rating of 98, where the next most popular song only has a rating of 92. In fact, it was so well-loved by swifties that Taylor decided to start off every Eras Tour concert with this song.\
 
 ## [An analysis of the different attributes of Taylor Swift songs]{.underline}
 
@@ -101,7 +97,7 @@ We can observe that Taylor's songs rank from average to high danceability, with 
 
 We can observe that Taylor's songs rank rather average in terms of energy, with a median of 0.62. The interquartile range (IQR) of her song's energy is rather wide, indicating that there are many songs that make up a wide range of energy levels, indicating that her songs all contain different levels of energy but are still equally successful and that not only high in energy songs would be popular for Taylor.
 
-4.  Tempo
+4.  **Tempo**
 
 -   Minimum value: 68.53
 
@@ -115,9 +111,9 @@ We can observe that Taylor's songs rank rather average in terms of energy, with 
 
 We can observe that Taylor's songs indeed do fare similar to the average 117 BPM of popular songs, with a median of 120.58 BPM.
 
-All in all, data concludes that Taylor's popular songs do follow what is seen in popular songs today. However, this is not the most accurate way of determining Taylor's success as she is already extremely popular today, with most of her songs in the Billboard Top 100 songs, which means the article most likely sampled many of her songs to come to those conclusions. This method would work much better for an upcoming artist that is trying to make their name known in the Billboard Top 100, where formulating their songs with these data statistics might give them higher chances of being successful.
+All in all, data concludes that Taylor's popular songs do have attributes that are congruent to popular songs today. However, this is not the most accurate way of determining Taylor's success as she is already extremely popular today, with many of her songs ialready n the Billboard Top 100 songs, it is like analysing Taylor's songs and concluding that the data shows that popular songs have similar attribute to Taylor's songs. Her songs were most likely sampled by the article before coming to those conclusions. This method would work much better for an upcoming artist that is trying to make their name known in the Billboard Top 100, where formulating their songs with these data statistics might give them higher chances of being successful.
 
-Albeit, this analysis is not all useless as the presence of the well-spread outliers (pink dots) on each box plot are indicators that Taylor has been successful in producing songs that lie outside of the perimeters of what is considered to make a song popular. Many people have dubbed her as 'The Music Industry' due to her immense influence in the music industry today. Taylor's success is definitely phenomenal and cannot be replicated by any other singer, from her ability to gain popularity despite changing music genres to her many controversies, Taylor has always remained on top of the music industry for her genuineness, relatable lyricism and her immaculate performance skills.
+Albeit, this analysis is not all useless as the presence of the well-spread outliers (pink dots) on each box plot are indicators that Taylor has been successful in producing songs that lie outside of the perimeters of what is considered to make a song popular. These outliers are indicators that Taylor transcends the need to create songs that follow rigid templates in order to be successful, she has been and is successful in producing songs that lie outside of the perimeters of what is considered to make a song popular. Many people have dubbed her as 'The Music Industry' due to her immense influence in the music industry today. Taylor's success is definitely phenomenal and cannot be replicated by any other singer, from her ability to gain popularity despite changing music genres to her many controversies, Taylor has always remained on top of the music industry for her genuineness, relatable lyricism and her immaculate performance skills. \
 
 ![](images/swift%20final%20pic.png){fig-align="center"}
 
